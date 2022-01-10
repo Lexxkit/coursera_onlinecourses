@@ -6,6 +6,6 @@
     buildpack: python_buildpack
   - name: lexxkit-c-nginx
     routes:
-      - route: lexxkit-c-nginx.eu-gb.cf.appdomain.cloud/static
+      - route: lexxkit-c.eu-gb.cf.appdomain.cloud/static
     memory: 128M
     buildpack: staticfile_buildpack
