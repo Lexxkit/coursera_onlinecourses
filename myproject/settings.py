@@ -29,8 +29,8 @@ DEBUG = True
 # <HINT> add your cloud host here
 ALLOWED_HOSTS = [
     'localhost',
-    'lexxkit_c.eu-gb.cf.appdomain.cloud',
-    'lexxkitc.eu-gb.mybluemix.net',
+    'lexxkit-c.eu-gb.cf.appdomain.cloud',
+    'lexxkit-c.eu-gb.mybluemix.net',
 ]
 
 
